@@ -10,3 +10,4 @@
 ## Katas
 
 * [01 - Produkt suchen und in den Warenkorb legen](./katas/01.md)
+* [02 - Flyout und Produktliste](./katas/02.md)

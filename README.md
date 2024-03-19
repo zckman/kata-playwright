@@ -1,4 +1,4 @@
-# Fork it and save you work
+# Fork it and save your work
 
 [github.com/zckman/kata-playwright/fork](https://github.com/zckman/kata-playwright/fork)
 

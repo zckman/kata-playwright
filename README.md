@@ -1,3 +1,7 @@
+# Fork it and save you work
+
+[github.com/zckman/kata-playwright/fork](https://github.com/zckman/kata-playwright/fork)
+
 # Basics
 
 * [Die Testpyramide](./01_testing_pyramid.md)

@@ -13,3 +13,4 @@
 * [02 - Flyout und Produktliste](./katas/02.md)
 * [03 - Emulation](./katas/03.md)
 * [04 - Annotationen](./katas/04.md)
+* [05 - API Tests](./katas/05.md)

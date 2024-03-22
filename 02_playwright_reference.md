@@ -2,7 +2,11 @@
 
 ### Setup
 
-`npm init playwright@latest`
+- `git clone [repo]`
+- Wechsel in das Verzeichnis
+- Playwright installieren
+  - `npm install`
+  - oder `npm init playwright@latest`
 
 Erster Funktions-Test: `npx playwright test example`
 
